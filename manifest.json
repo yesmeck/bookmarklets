@@ -1,0 +1,7 @@
+{
+  "manifest_version": 2,
+
+  "name": "Bookmarklets",
+  "description": "Display bookmarklets on toolbar",
+  "version": "1.0"
+}
