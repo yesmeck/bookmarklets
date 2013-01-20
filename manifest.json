@@ -3,5 +3,10 @@
 
   "name": "Bookmarklets",
   "description": "Display bookmarklets on toolbar",
-  "version": "1.0"
+  "version": "1.0",
+
+  "background": {
+    "persistent": false,
+    "scripts": ["bookmarklets.js"]
+  }
 }
